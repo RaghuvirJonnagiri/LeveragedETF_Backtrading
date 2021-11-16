@@ -1,6 +1,8 @@
 # StockMarketAnalysis
 
 #### This project is to use python and explore stock market trading. 
+<br>
+<br>
 
 ## LeveragedETF_Backtrading.ipynb:
 - Creates a widget app to compare the performance of major ETFs and Leveraged ETFs. 
