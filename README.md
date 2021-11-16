@@ -9,7 +9,7 @@
 - Time Options : Any period between 1993 and current.
 - Strategy Options : BuyAndHold, Moving Average Cross.
 
-[Click here](https://hub.gke2.mybinder.org/user/ravirejo-stockmarketanalysis-3r0vgy72/doc/tree/LeveragedETF_Backtrading.ipynb) to run this notebook interactively on mybinder. Or use the logo below for the repository.
+[Click here](https://mybinder.org/v2/gh/ravirejo/StockMarketAnalysis/main?filepath=LeveragedETF_Backtrading.ipynb) to run this notebook interactively on mybinder. Or use the logo at the bottom for the main repository. Since binder needs to create the environment, it might take a minute or two to load. 
 
 
 
