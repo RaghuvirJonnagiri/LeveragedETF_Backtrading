@@ -9,4 +9,5 @@ dependencies:
   - pandas-datareader
   - yfinance
   - ipywidgets
+  - backtrader
   
