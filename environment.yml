@@ -6,7 +6,6 @@ dependencies:
   - psutil
   - matplotlib
   - pandas
-  - backtrader
   - yfinance
   - ipywidgets
   
