@@ -1,13 +1,12 @@
-name: example-environment
+name: Leveraged-ETF-Analysis
 channels:
   - conda-forge
 dependencies:
   - numpy
   - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - backtrader
+  - yfinance
+  - ipywidgets
+  
