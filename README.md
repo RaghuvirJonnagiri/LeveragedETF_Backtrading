@@ -1,6 +1,6 @@
-# Leveraged ETF Backtrading
+# Stock Market Analysis
 
-#### This project is to use python and explore stock market trading through leverage and moving averages. 
+#### This project is to use python and explore stock market. 
 <br>
 
 ## LeveragedETF_Backtrading.ipynb:
