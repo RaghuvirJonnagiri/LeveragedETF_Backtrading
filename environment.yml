@@ -1,4 +1,4 @@
-name: Leveraged-ETF-Analysis
+name: StockMarketAnalysis
 channels:
   - conda-forge
 dependencies:
