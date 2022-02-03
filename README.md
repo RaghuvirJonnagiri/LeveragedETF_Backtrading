@@ -15,4 +15,13 @@
 
 <br>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaghuvirJonnagiri/LeveragedETF_Backtrading/HEAD?labpath=LeveragedETF_Backtrading.ipynb)
+## SP500_AnalystRatingAnalysis.ipynb:
+- Creates a widget app to detect price dislocated stocks based on historical analyst consensus upside
+- Marketbeat.com data of historical analyst price target is collected and historical average consensus upside is calculated
+- Difference between this average consensus upside and current consensus upside is considered as mean reversion upside.
+- This mean reversion upside is plotted against expected EPS (Earnings Per Share) growth and ratings webscraped from Zacks.com
+
+[Click here](https://mybinder.org/v2/gh/RaghuvirJonnagiri/LeveragedETF_Backtrading/HEAD?labpath=LeveragedETF_Backtrading.ipynb) to run this notebook interactively on mybinder. Or use the logo at the bottom for the main repository. Since binder needs to create the environment, it might take a minute or two to load. 
+
+<br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaghuvirJonnagiri/LeveragedETF_Backtrading/HEAD)
