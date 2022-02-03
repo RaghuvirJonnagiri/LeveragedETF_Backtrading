@@ -8,3 +8,5 @@ dependencies:
   - pandas-datareader
   - yfinance
   - ipywidgets
+  - selenium
+  
