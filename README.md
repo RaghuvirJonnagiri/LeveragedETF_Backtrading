@@ -12,7 +12,7 @@
 
 [Click here](https://mybinder.org/v2/gh/RaghuvirJonnagiri/StockMarketAnalysis/HEAD?labpath=LeveragedETF_Backtrading.ipynb) to run this notebook interactively on mybinder. Or use the logo at the bottom for the main repository. Since binder needs to create the environment, it might take a minute or two to load. 
 
-![alt text](https://github.com/RaghuvirJonnagiri/StockMarketAnalysis/blob/main/ReferenceImages/Layout_LeveragedETFbacktesting.emf)
+![alt text](https://github.com/RaghuvirJonnagiri/StockMarketAnalysis/blob/main/ReferenceImages/SampleOutput_LeveragedETFtrading.PNG)
 
 <br>
 
